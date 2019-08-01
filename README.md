@@ -1,5 +1,3 @@
-# Workshop-jkt
-
 ## Practice 1
 
 #####  1. Create react native app using
@@ -46,3 +44,4 @@ https://github.com/dotdidik/workshop-rn-boilerplate
 
 #### - Backend
 https://posting.baggrek.com/mobile/doc/v1
+
